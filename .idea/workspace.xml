@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5add2d6-f03c-4c7a-b588-340ed7ff6455" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJDhEtDDjwcQeVGEhvaTGugJWM" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.darrell.helloword" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="com.darrell.helloworld in helloworld" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darrell.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.darrell.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.com.darrell.helloworld in helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5add2d6-f03c-4c7a-b588-340ed7ff6455" name="Default Changelist" comment="" />
+      <created>1582651920617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582651920617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="171" key="#Project_Structure" timestamp="1582655568395">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="440" y="171" key="#Project_Structure/0.23.1680.966@0.23.1680.966" timestamp="1582655568395" />
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582661790145">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1680.966@0.23.1680.966" timestamp="1582661790145" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom" timestamp="1582662012983">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.966@0.23.1680.966" timestamp="1582662012983" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center" timestamp="1582662012982">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.966@0.23.1680.966" timestamp="1582662012982" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left" timestamp="1582662012981">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.966@0.23.1680.966" timestamp="1582662012981" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right" timestamp="1582662012982">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.966@0.23.1680.966" timestamp="1582662012982" />
+    <state x="328" y="87" key="SettingsEditor" timestamp="1582654866959">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="328" y="87" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1582654866959" />
+    <state x="519" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1582651925088">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="519" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1582651925088" />
+    <state x="552" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582655772670">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="552" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.966@0.23.1680.966" timestamp="1582655772670" />
+    <state x="619" y="240" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582655465890">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="619" y="240" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.966@0.23.1680.966" timestamp="1582655465890" />
+  </component>
+</project>
